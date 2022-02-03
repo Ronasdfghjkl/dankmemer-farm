@@ -7,8 +7,7 @@ from multiprocessing import Process
 #########################################
            ###REPLACE THOSE###
     
-channel_id = 'The id of your channel to farm in'
-id = 'Your user id for receiving money'
+channel_id = '920366383160754236'
 
            ###REPLACE THOSE###
 #########################################
